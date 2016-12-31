@@ -1,0 +1,15 @@
+{
+  "name": "as-alexa-askjenn-simple",
+  "version": "0.0.1",
+  "description": "A server that can be hosted and responds to echo api calls. based heavily on the node.js sample by Anthony Ngu. http://anthonyngu.com",
+  "homepage": "https://github.com/mikelor/as-alexa-askjenn-simple",
+  "keywords":["echo", "amazon", "api"],
+  "author": {
+    "name" : "mike lorengo",
+    "url" : "http://blog.mikelorengo.com"
+  },
+  "dependencies": {
+    "express": "4.12.3",
+    "ejs":"2.3.1"
+  }
+}
